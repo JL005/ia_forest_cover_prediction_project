@@ -11,4 +11,4 @@
 Los datos del proyecto provienen de [Competition forest cover type prediction](https://www.kaggle.com/competitions/forest-cover-type-prediction/)
 
 ## Vídeos
-
+ - Segunda entrega: [Video en Youtube](https://www.youtube.com/watch?v=5NyiehFcdn4)
